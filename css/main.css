@@ -1703,9 +1703,9 @@ a:focus,
 a:hover,
 a:visited {
   text-decoration: none;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
 }
 li {
   list-style: none;
