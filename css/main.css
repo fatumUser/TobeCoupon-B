@@ -9948,6 +9948,8 @@ ul.pagination li.disabled span {
 .text_special-offers {
   font-weight: 600;
   white-space: nowrap;
+  transition-property: color;
+  transition-duration: 0.3s;
 }
 .header__img-arrow {
   margin-left: 4px;
@@ -9989,7 +9991,7 @@ ul.pagination li.disabled span {
 }
 .header__img-arrow {
   margin-top: 0px;
-  transition-property: transform;
+  transition-property: all;
   transition-duration: 0.2s;
 }
 /*.header__img-arrow {
